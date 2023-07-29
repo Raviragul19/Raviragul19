@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviragul19&label=Profile%20views&color=0e75b6&style=flat" alt="raviragul19" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C,C++,Javascript,HTML,CSS**
 
 - 📫 How to reach me **raviragul3048@gmail.com**
 
